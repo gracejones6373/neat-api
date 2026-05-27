@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-05-26T12:21:34Z
-Entry: feat: add structured logging and telemetry events
-Sequence: 30/86
+Last updated: 2026-05-27T12:28:16Z
+Entry: fix: ensure graceful socket teardown on unexpected process exit
+Sequence: 31/86
