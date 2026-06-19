@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-06-18T14:19:54Z
-Entry: perf: reduce memory allocations in main loop execution
-Sequence: 40/86
+Last updated: 2026-06-19T15:26:13Z
+Entry: fix: ensure graceful socket teardown on unexpected process exit
+Sequence: 41/86
